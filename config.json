@@ -1,0 +1,188 @@
+[{
+	"ext": "jpg",
+	"mime": "image/jpeg",
+	"header": "0xffd8ff"
+}, {
+	"ext": "png",
+	"mime": "image/png",
+	"header": "0x8950 4e47"
+}, {
+	"ext": "gif",
+	"mime": "image/gif",
+	"header": "0x474946"
+}, {
+	"ext": "webp",
+	"mime": "image/webp",
+	"position": 8,
+	"header": "0x5745 4250"
+}, {
+	"ext": "tif",
+	"mime": "image/tiff",
+	"header": "0x4949 2a00,0x4d4d 002a"
+}, {
+	"ext": "bmp",
+	"mime": "image/bmp",
+	"header": "0x424d"
+}, {
+	"ext": "jxr",
+	"mime": "image/vnd.ms-photo",
+	"header": "0x4949bc"
+}, {
+	"ext": "psd",
+	"mime": "image/vnd.adobe.photoshop",
+	"header": "0x3842 5053"
+}, {
+	"ext": "epub",
+	"mime": "application/epub+zip",
+	"header": [{
+		"value": "0x504b 0304",
+		"position": 0
+	}, {
+		"value": "0x6d69 6d65 7479 7065 6170 706c 6963 6174 696f 6e2f 6570 7562 2b7a 6970",
+		"position": 30
+	}]
+}, {
+	"ext": "zip",
+	"mime": "application/zip",
+	"header": "0x504b 0304"
+}, {
+	"ext": "tar",
+	"mime": "application/x-tar",
+	"position": 257,
+	"header": "0x7573 7461 72"
+}, {
+	"ext": "rar",
+	"mime": "application/x-rar-compressed",
+	"header": "0x5261 7221 1a07 00,0x5261 7221 1a07 0100"
+}, {
+	"ext": "gz",
+	"mime": "application/gzip",
+	"header": "0x1f8b08"
+}, {
+	"ext": "bz2",
+	"mime": "application/x-bzip2",
+	"header": "0x425a68"
+}, {
+	"ext": "7z",
+	"mime": "application/x-7z-compressed",
+	"header": "0x377a bcaf 271c"
+}, {
+	"ext": "mp4",
+	"mime": "video/mp4",
+	"header": "0x0000 0018 6674 7970,0x0000 0020 6674 7970,0x3367 7035"
+}, {
+	"ext": "mkv",
+	"mime": "video/x-matroska",
+	"position": 31,
+	"header": "0x6d61 7472 6f73 6b61"
+}, {
+	"ext": "webm",
+	"mime": "video/webm",
+	"header": "0x1a45 dfa3"
+}, {
+	"ext": "mov",
+	"mime": "video/quicktime",
+	"header": "0x0000 0014 6674 7970"
+}, {
+	"ext": "avi",
+	"mime": "video/x-msvideo",
+	"header": [{
+		"position": 0,
+		"value": "0x5249 4646"
+	}, {
+		"position": 8,
+		"value": "0x415649"
+	}]
+}, {
+	"ext": "wmv",
+	"mime": "video/x-ms-wmv",
+	"header": "0x3026 b275 8e66 cf11 a6d9"
+}, {
+	"ext": "mpg",
+	"mime": "video/mpeg",
+	"header": "0x0000 01b"
+}, {
+	"ext": "mp3",
+	"mime": "audio/mpeg",
+	"header": "0x494433,0xfffb"
+}, {
+	"ext": "m4a",
+	"mime": "audio/m4a",
+	"position": 4,
+	"header": "0x6674 7970"
+}, {
+	"ext": "m4a",
+	"mime": "audio/m4a",
+	"header": "0x4434 4120"
+}, {
+	"ext": "ogg",
+	"mime": "audio/ogg",
+	"header": "0x4f67 6753"
+}, {
+	"ext": "flac",
+	"mime": "audio/x-flac",
+	"header": "0x664c 6143"
+}, {
+	"ext": "wav",
+	"mime": "audio/x-wav",
+	"header": [{
+		"value": "0x5249 4646"
+	}, {
+		"position": 8,
+		"value": "0x5741 5645"
+	}]
+}, {
+	"ext": "pdf",
+	"mime": "application/pdf",
+	"header": "0x2550 4446"
+}, {
+	"ext": "exe",
+	"mime": "application/x-msdownload",
+	"header": "0x4d5a"
+}, {
+	"ext": "swf",
+	"mime": "application/x-shockwave-flash",
+	"header": "0x435753,0x465753"
+}, {
+	"ext": "rtf",
+	"mime": "application/rtf",
+	"header": "0x7b5c 7274 66"
+}, {
+	"ext": "woff",
+	"mime": "application/font-woff",
+	"header": "0x774f 4646 0001 0000"
+}, {
+	"ext": "woff2",
+	"mime": "application/font-woff",
+	"header": "0x774f 4632 0001 0000"
+}, {
+	"ext": "eot",
+	"mime": "application/octet-stream",
+	"header": [{
+		"position": 34,
+		"value": "0x4c50"
+	}, {
+		"position": 8,
+		"value": "0x020001,0x010000,0x020002"
+	}]
+}, {
+	"ext": "ttf",
+	"mime": "application/font-sfnt",
+	"header": "0x0001 0000 00"
+}, {
+	"ext": "otf",
+	"mime": "application/font-sfnt",
+	"header": "0x4f54 544f 00"
+}, {
+	"ext": "ico",
+	"mime": "image/x-icon",
+	"header": "0x0000 0100"
+}, {
+	"ext": "flv",
+	"mime": "video/x-flv",
+	"header": "0x464c  5601"
+}, {
+	"ext": "ps",
+	"mime": "application/postscript",
+	"header": "0x2521"
+}]

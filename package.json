@@ -1,0 +1,25 @@
+{
+	"name": "file-type",
+	"version": "0.9.0",
+	"description": "Detect the file type",
+	"license": "MIT",
+	"repository": "Hakurouken/file-type",
+	"author": {
+		"name": "Hakurouken",
+		"email": "ticshot@gmail.com",
+	},
+	"bin": {
+		"file-type": "file-type.js"
+	},
+	"engines": {
+		"node": ">=0.10.0"
+	},
+	"keywords": [
+		"mime",
+		"file",
+		"type"
+	],
+	"devDependencies": {
+		"mocha": "2.2.1"
+	}
+}
